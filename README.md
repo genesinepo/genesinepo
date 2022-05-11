@@ -1,8 +1,8 @@
 <b>Year Level: </b>Third Year
 
-<b>Interests: </b>Penetration Testing
+<b>Interests: </b>Gaming
 
-<b>Email Address: </b>qjpccabral@tip.edu.ph
+<b>Email Address: </b>qgdlnepomuceno@tip.edu.ph
 
 # Computer Specs
 * <b>CPU: </b>Intel Core i7 3770 (4 Cores 8 Threads)
